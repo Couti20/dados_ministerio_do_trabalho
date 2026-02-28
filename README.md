@@ -327,7 +327,7 @@ Este projeto demonstra competências em:
 
 ---
 
-<div align="center">
+<div"center">
 
 *Dados reais do Ministério do Trabalho e Emprego*
 
