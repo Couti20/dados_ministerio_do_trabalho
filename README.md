@@ -327,35 +327,10 @@ Este projeto demonstra competências em:
 
 ---
 
-## 👨‍💻 Autor
-
 <div align="center">
-
-**Michael**
-
-Engenheiro de Dados | Full Stack Developer | BI Analyst
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
-</div>
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-<div align="center">
-
-### ⭐ Se este projeto foi útil, deixe uma estrela!
-
-**Feito com ☕ + 📊 + React**
 
 *Dados reais do Ministério do Trabalho e Emprego*
 
 </div>
+
+
