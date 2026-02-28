@@ -1,0 +1,92 @@
+[
+  {
+    "cnae": 1012,
+    "descricao": "Abate de Suínos/Aves",
+    "total": 9296,
+    "percentual": 6.4
+  },
+  {
+    "cnae": 4120,
+    "descricao": "Construção de Edifícios",
+    "total": 7397,
+    "percentual": 5.1
+  },
+  {
+    "cnae": 1011,
+    "descricao": "Abate de Bovinos",
+    "total": 5589,
+    "percentual": 3.9
+  },
+  {
+    "cnae": 1071,
+    "descricao": "Fabricação de Açúcar",
+    "total": 3794,
+    "percentual": 2.6
+  },
+  {
+    "cnae": 2229,
+    "descricao": "Fabricação de Artefatos de Plástico",
+    "total": 2971,
+    "percentual": 2.1
+  },
+  {
+    "cnae": 2451,
+    "descricao": "Fundição de Ferro e Aço",
+    "total": 2923,
+    "percentual": 2.0
+  },
+  {
+    "cnae": 2222,
+    "descricao": "Fabricação de Embalagens de Plástico",
+    "total": 2742,
+    "percentual": 1.9
+  },
+  {
+    "cnae": 4399,
+    "descricao": "Outras Obras de Construção",
+    "total": 2677,
+    "percentual": 1.9
+  },
+  {
+    "cnae": 3101,
+    "descricao": "Fabricação de Móveis de Madeira",
+    "total": 2601,
+    "percentual": 1.8
+  },
+  {
+    "cnae": 4321,
+    "descricao": "Instalações Elétricas",
+    "total": 2429,
+    "percentual": 1.7
+  },
+  {
+    "cnae": 2949,
+    "descricao": "Fabricação de Peças para Veículos",
+    "total": 2414,
+    "percentual": 1.7
+  },
+  {
+    "cnae": 2599,
+    "descricao": "Fabricação de Produtos de Metal",
+    "total": 2317,
+    "percentual": 1.6
+  },
+  {
+    "cnae": 2833,
+    "descricao": "Fabricação de Máquinas Agrícolas",
+    "total": 2268,
+    "percentual": 1.6
+  },
+  {
+    "cnae": 2930,
+    "descricao": "Fabricação de Cabines e Carrocerias",
+    "total": 2268,
+    "percentual": 1.6
+  },
+  {
+    "cnae": 2330,
+    "descricao": "Fabricação de Artefatos de Concreto",
+    "total": 2243,
+    "percentual": 1.6
+  }
+]

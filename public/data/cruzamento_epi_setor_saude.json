@@ -1,0 +1,152 @@
+[
+  {
+    "cnae": 8610,
+    "descricao": "Hospitais",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 4506
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 2046
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 821
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 23172
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 2498
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 4633
+      }
+    ]
+  },
+  {
+    "cnae": 8660,
+    "descricao": "Atividades de Apoio à Gestão de Saúde",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 661
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 372
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 95
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 3211
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 314
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 1000
+      }
+    ]
+  },
+  {
+    "cnae": 8640,
+    "descricao": "Serviços de Atendimento Odontológico",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 402
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 191
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 49
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 2898
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 228
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 451
+      }
+    ]
+  },
+  {
+    "cnae": 8630,
+    "descricao": "Serviços de Atendimento Médico",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 560
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 189
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 84
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 2159
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 142
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 623
+      }
+    ]
+  },
+  {
+    "cnae": 8800,
+    "descricao": "Serviços de Assistência Social",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 355
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 112
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 58
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 526
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 35
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 323
+      }
+    ]
+  }
+]

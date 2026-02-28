@@ -1,0 +1,152 @@
+[
+  {
+    "cnae": 8610,
+    "descricao": "Hospitais",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 4506
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 2046
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 821
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 23172
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 2498
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 4633
+      }
+    ]
+  },
+  {
+    "cnae": 4711,
+    "descricao": "Supermercados e Hipermercados",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 3547
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 1015
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 499
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 9550
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 247
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 2104
+      }
+    ]
+  },
+  {
+    "cnae": 4930,
+    "descricao": "Transporte de Carga",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 3018
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 1048
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 565
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 4022
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 251
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 2237
+      }
+    ]
+  },
+  {
+    "cnae": 8411,
+    "descricao": "Administração Pública",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 2362
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 699
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 362
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 3908
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 256
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 2134
+      }
+    ]
+  },
+  {
+    "cnae": 1012,
+    "descricao": "Abate de Suínos/Aves",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 1602
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 679
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 253
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 5194
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 498
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 1070
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "periodo": "2024-01",
+    "Mes": 1,
+    "total": 41211,
+    "mesNome": "Jan"
+  },
+  {
+    "periodo": "2024-02",
+    "Mes": 2,
+    "total": 40034,
+    "mesNome": "Fev"
+  },
+  {
+    "periodo": "2024-03",
+    "Mes": 3,
+    "total": 41493,
+    "mesNome": "Mar"
+  },
+  {
+    "periodo": "2024-04",
+    "Mes": 4,
+    "total": 49847,
+    "mesNome": "Abr"
+  },
+  {
+    "periodo": "2024-05",
+    "Mes": 5,
+    "total": 77050,
+    "mesNome": "Mai"
+  },
+  {
+    "periodo": "2024-06",
+    "Mes": 6,
+    "total": 37899,
+    "mesNome": "Jun"
+  },
+  {
+    "periodo": "2024-07",
+    "Mes": 7,
+    "total": 44211,
+    "mesNome": "Jul"
+  },
+  {
+    "periodo": "2024-08",
+    "Mes": 8,
+    "total": 20233,
+    "mesNome": "Ago"
+  },
+  {
+    "periodo": "2024-09",
+    "Mes": 9,
+    "total": 2856,
+    "mesNome": "Set"
+  },
+  {
+    "periodo": "2024-10",
+    "Mes": 10,
+    "total": 5785,
+    "mesNome": "Out"
+  },
+  {
+    "periodo": "2024-11",
+    "Mes": 11,
+    "total": 5740,
+    "mesNome": "Nov"
+  },
+  {
+    "periodo": "2024-12",
+    "Mes": 12,
+    "total": 5968,
+    "mesNome": "Dez"
+  }
+]

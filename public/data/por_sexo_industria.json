@@ -1,0 +1,12 @@
+[
+  {
+    "sexo": "Feminino",
+    "total": 21755,
+    "percentual": 15.1
+  },
+  {
+    "sexo": "Masculino",
+    "total": 122487,
+    "percentual": 84.9
+  }
+]

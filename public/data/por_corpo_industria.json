@@ -1,0 +1,254 @@
+[
+  {
+    "parte": "Dedo",
+    "regiao": "mao",
+    "total": 46492,
+    "percentual": 32.2
+  },
+  {
+    "parte": "Mão (exceto punho ou dedos)",
+    "regiao": "mao",
+    "total": 13675,
+    "percentual": 9.5
+  },
+  {
+    "parte": "Pé (exceto artelhos)",
+    "regiao": "pe",
+    "total": 12782,
+    "percentual": 8.8
+  },
+  {
+    "parte": "Olho (inclusive nervo óptico)",
+    "regiao": "cabeca",
+    "total": 7779,
+    "percentual": 5.4
+  },
+  {
+    "parte": "Braço (entre punho e cotovelo)",
+    "regiao": "mao",
+    "total": 5049,
+    "percentual": 3.5
+  },
+  {
+    "parte": "Joelho",
+    "regiao": "perna",
+    "total": 4862,
+    "percentual": 3.4
+  },
+  {
+    "parte": "Perna (entre tornozelo e joelho)",
+    "regiao": "outros",
+    "total": 4506,
+    "percentual": 3.1
+  },
+  {
+    "parte": "Cabeça (não classificada)",
+    "regiao": "cabeca",
+    "total": 3929,
+    "percentual": 2.7
+  },
+  {
+    "parte": "Antebraço (entre punho e cotovelo)",
+    "regiao": "outros",
+    "total": 3904,
+    "percentual": 2.7
+  },
+  {
+    "parte": "Punho",
+    "regiao": "mao",
+    "total": 3522,
+    "percentual": 2.4
+  },
+  {
+    "parte": "Perna (do tornozelo ao joelho)",
+    "regiao": "perna",
+    "total": 3448,
+    "percentual": 2.4
+  },
+  {
+    "parte": "Articulação do Tornozelo",
+    "regiao": "perna",
+    "total": 3309,
+    "percentual": 2.3
+  },
+  {
+    "parte": "Membros Superiores (múltiplos)",
+    "regiao": "outros",
+    "total": 3020,
+    "percentual": 2.1
+  },
+  {
+    "parte": "Face (partes múltiplas)",
+    "regiao": "outros",
+    "total": 2984,
+    "percentual": 2.1
+  },
+  {
+    "parte": "Dorso (inclusive músculos dorsais)",
+    "regiao": "torax",
+    "total": 2924,
+    "percentual": 2.0
+  },
+  {
+    "parte": "Ombro",
+    "regiao": "braco",
+    "total": 2824,
+    "percentual": 2.0
+  },
+  {
+    "parte": "Partes Múltiplas - Atingidas",
+    "regiao": "outros",
+    "total": 2350,
+    "percentual": 1.6
+  },
+  {
+    "parte": "Cabeça (partes múltiplas)",
+    "regiao": "cabeca",
+    "total": 1932,
+    "percentual": 1.3
+  },
+  {
+    "parte": "Membros Inferiores (múltiplos)",
+    "regiao": "outros",
+    "total": 1739,
+    "percentual": 1.2
+  },
+  {
+    "parte": "Tórax (inclusive órgãos)",
+    "regiao": "outros",
+    "total": 1215,
+    "percentual": 0.8
+  },
+  {
+    "parte": "Braço (acima do cotovelo)",
+    "regiao": "outros",
+    "total": 1196,
+    "percentual": 0.8
+  },
+  {
+    "parte": "Cotovelo",
+    "regiao": "outros",
+    "total": 1068,
+    "percentual": 0.7
+  },
+  {
+    "parte": "Coxa",
+    "regiao": "perna",
+    "total": 1016,
+    "percentual": 0.7
+  },
+  {
+    "parte": "Quadris (inclusive pelve)",
+    "regiao": "outros",
+    "total": 1014,
+    "percentual": 0.7
+  },
+  {
+    "parte": "Tronco (não classificado)",
+    "regiao": "outros",
+    "total": 1009,
+    "percentual": 0.7
+  },
+  {
+    "parte": "Boca (inclusive lábios e dentes)",
+    "regiao": "outros",
+    "total": 970,
+    "percentual": 0.7
+  },
+  {
+    "parte": "Tronco (partes múltiplas)",
+    "regiao": "outros",
+    "total": 933,
+    "percentual": 0.6
+  },
+  {
+    "parte": "Artelhos (dedos do pé)",
+    "regiao": "outros",
+    "total": 864,
+    "percentual": 0.6
+  },
+  {
+    "parte": "Nariz (inclusive cavidades nasais)",
+    "regiao": "outros",
+    "total": 745,
+    "percentual": 0.5
+  },
+  {
+    "parte": "Abdômen (inclusive órgãos)",
+    "regiao": "outros",
+    "total": 616,
+    "percentual": 0.4
+  },
+  {
+    "parte": "Localização da Lesão (não especificada)",
+    "regiao": "outros",
+    "total": 603,
+    "percentual": 0.4
+  },
+  {
+    "parte": "Pescoço",
+    "regiao": "cabeca",
+    "total": 530,
+    "percentual": 0.4
+  },
+  {
+    "parte": "Crânio (inclusive encéfalo)",
+    "regiao": "cabeca",
+    "total": 458,
+    "percentual": 0.3
+  },
+  {
+    "parte": "Aparelho Respiratório",
+    "regiao": "outros",
+    "total": 382,
+    "percentual": 0.3
+  },
+  {
+    "parte": "Mandíbula (inclusive dentes)",
+    "regiao": "outros",
+    "total": 314,
+    "percentual": 0.2
+  },
+  {
+    "parte": "Ouvido (externo, médio e interno)",
+    "regiao": "outros",
+    "total": 184,
+    "percentual": 0.1
+  },
+  {
+    "parte": "Sistemas e Aparelhos (interno)",
+    "regiao": "outros",
+    "total": 163,
+    "percentual": 0.1
+  },
+  {
+    "parte": "Sistema Musculoesquelético",
+    "regiao": "outros",
+    "total": 86,
+    "percentual": 0.1
+  },
+  {
+    "parte": "Aparelho Digestivo",
+    "regiao": "outros",
+    "total": 70,
+    "percentual": 0.0
+  },
+  {
+    "parte": "Aparelho Genito-Urinário",
+    "regiao": "outros",
+    "total": 55,
+    "percentual": 0.0
+  },
+  {
+    "parte": "Sistema Nervoso Central",
+    "regiao": "outros",
+    "total": 28,
+    "percentual": 0.0
+  },
+  {
+    "parte": "Aparelho Circulatório",
+    "regiao": "outros",
+    "total": 11,
+    "percentual": 0.0
+  }
+]

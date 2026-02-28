@@ -1,0 +1,254 @@
+[
+  {
+    "parte": "Dedo",
+    "regiao": "mao",
+    "total": 3565,
+    "percentual": 16.1
+  },
+  {
+    "parte": "Pé (exceto artelhos)",
+    "regiao": "pe",
+    "total": 2393,
+    "percentual": 10.8
+  },
+  {
+    "parte": "Mão (exceto punho ou dedos)",
+    "regiao": "mao",
+    "total": 1256,
+    "percentual": 5.7
+  },
+  {
+    "parte": "Joelho",
+    "regiao": "perna",
+    "total": 1243,
+    "percentual": 5.6
+  },
+  {
+    "parte": "Partes Múltiplas - Atingidas",
+    "regiao": "outros",
+    "total": 1170,
+    "percentual": 5.3
+  },
+  {
+    "parte": "Perna (entre tornozelo e joelho)",
+    "regiao": "outros",
+    "total": 1158,
+    "percentual": 5.2
+  },
+  {
+    "parte": "Articulação do Tornozelo",
+    "regiao": "perna",
+    "total": 1023,
+    "percentual": 4.6
+  },
+  {
+    "parte": "Braço (entre punho e cotovelo)",
+    "regiao": "mao",
+    "total": 871,
+    "percentual": 3.9
+  },
+  {
+    "parte": "Perna (do tornozelo ao joelho)",
+    "regiao": "perna",
+    "total": 865,
+    "percentual": 3.9
+  },
+  {
+    "parte": "Cabeça (não classificada)",
+    "regiao": "cabeca",
+    "total": 810,
+    "percentual": 3.7
+  },
+  {
+    "parte": "Dorso (inclusive músculos dorsais)",
+    "regiao": "torax",
+    "total": 703,
+    "percentual": 3.2
+  },
+  {
+    "parte": "Ombro",
+    "regiao": "braco",
+    "total": 702,
+    "percentual": 3.2
+  },
+  {
+    "parte": "Membros Superiores (múltiplos)",
+    "regiao": "outros",
+    "total": 607,
+    "percentual": 2.7
+  },
+  {
+    "parte": "Punho",
+    "regiao": "mao",
+    "total": 537,
+    "percentual": 2.4
+  },
+  {
+    "parte": "Cabeça (partes múltiplas)",
+    "regiao": "cabeca",
+    "total": 504,
+    "percentual": 2.3
+  },
+  {
+    "parte": "Sistema Nervoso Central",
+    "regiao": "outros",
+    "total": 493,
+    "percentual": 2.2
+  },
+  {
+    "parte": "Olho (inclusive nervo óptico)",
+    "regiao": "cabeca",
+    "total": 447,
+    "percentual": 2.0
+  },
+  {
+    "parte": "Membros Inferiores (múltiplos)",
+    "regiao": "outros",
+    "total": 443,
+    "percentual": 2.0
+  },
+  {
+    "parte": "Face (partes múltiplas)",
+    "regiao": "outros",
+    "total": 386,
+    "percentual": 1.7
+  },
+  {
+    "parte": "Antebraço (entre punho e cotovelo)",
+    "regiao": "outros",
+    "total": 368,
+    "percentual": 1.7
+  },
+  {
+    "parte": "Tórax (inclusive órgãos)",
+    "regiao": "outros",
+    "total": 327,
+    "percentual": 1.5
+  },
+  {
+    "parte": "Tronco (partes múltiplas)",
+    "regiao": "outros",
+    "total": 229,
+    "percentual": 1.0
+  },
+  {
+    "parte": "Quadris (inclusive pelve)",
+    "regiao": "outros",
+    "total": 223,
+    "percentual": 1.0
+  },
+  {
+    "parte": "Tronco (não classificado)",
+    "regiao": "outros",
+    "total": 219,
+    "percentual": 1.0
+  },
+  {
+    "parte": "Cotovelo",
+    "regiao": "outros",
+    "total": 210,
+    "percentual": 0.9
+  },
+  {
+    "parte": "Localização da Lesão (não especificada)",
+    "regiao": "outros",
+    "total": 206,
+    "percentual": 0.9
+  },
+  {
+    "parte": "Braço (acima do cotovelo)",
+    "regiao": "outros",
+    "total": 204,
+    "percentual": 0.9
+  },
+  {
+    "parte": "Crânio (inclusive encéfalo)",
+    "regiao": "cabeca",
+    "total": 160,
+    "percentual": 0.7
+  },
+  {
+    "parte": "Coxa",
+    "regiao": "perna",
+    "total": 145,
+    "percentual": 0.7
+  },
+  {
+    "parte": "Artelhos (dedos do pé)",
+    "regiao": "outros",
+    "total": 133,
+    "percentual": 0.6
+  },
+  {
+    "parte": "Boca (inclusive lábios e dentes)",
+    "regiao": "outros",
+    "total": 130,
+    "percentual": 0.6
+  },
+  {
+    "parte": "Abdômen (inclusive órgãos)",
+    "regiao": "outros",
+    "total": 88,
+    "percentual": 0.4
+  },
+  {
+    "parte": "Nariz (inclusive cavidades nasais)",
+    "regiao": "outros",
+    "total": 83,
+    "percentual": 0.4
+  },
+  {
+    "parte": "Pescoço",
+    "regiao": "cabeca",
+    "total": 67,
+    "percentual": 0.3
+  },
+  {
+    "parte": "Mandíbula (inclusive dentes)",
+    "regiao": "outros",
+    "total": 59,
+    "percentual": 0.3
+  },
+  {
+    "parte": "Aparelho Respiratório",
+    "regiao": "outros",
+    "total": 40,
+    "percentual": 0.2
+  },
+  {
+    "parte": "Sistema Musculoesquelético",
+    "regiao": "outros",
+    "total": 30,
+    "percentual": 0.1
+  },
+  {
+    "parte": "Ouvido (externo, médio e interno)",
+    "regiao": "outros",
+    "total": 27,
+    "percentual": 0.1
+  },
+  {
+    "parte": "Sistemas e Aparelhos (interno)",
+    "regiao": "outros",
+    "total": 25,
+    "percentual": 0.1
+  },
+  {
+    "parte": "Aparelho Genito-Urinário",
+    "regiao": "outros",
+    "total": 13,
+    "percentual": 0.1
+  },
+  {
+    "parte": "Aparelho Digestivo",
+    "regiao": "outros",
+    "total": 4,
+    "percentual": 0.0
+  },
+  {
+    "parte": "Aparelho Circulatório",
+    "regiao": "outros",
+    "total": 3,
+    "percentual": 0.0
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "UF": "São Paulo",
+    "sigla": "SP",
+    "total": 131464
+  },
+  {
+    "UF": "Minas Gerais",
+    "sigla": "MG",
+    "total": 37653
+  },
+  {
+    "UF": "Paraná",
+    "sigla": "PR",
+    "total": 32133
+  },
+  {
+    "UF": "Rio Grande do Sul",
+    "sigla": "RS",
+    "total": 32125
+  },
+  {
+    "UF": "Santa Catarina",
+    "sigla": "SC",
+    "total": 28787
+  },
+  {
+    "UF": "Rio de Janeiro",
+    "sigla": "RJ",
+    "total": 24504
+  },
+  {
+    "UF": "Goiás",
+    "sigla": "GO",
+    "total": 10213
+  },
+  {
+    "UF": "Bahia",
+    "sigla": "BA",
+    "total": 9856
+  },
+  {
+    "UF": "Espírito Santo",
+    "sigla": "ES",
+    "total": 8539
+  },
+  {
+    "UF": "Mato Grosso",
+    "sigla": "MT",
+    "total": 7176
+  },
+  {
+    "UF": "Pernambuco",
+    "sigla": "PE",
+    "total": 6949
+  },
+  {
+    "UF": "Mato Grosso do Sul",
+    "sigla": "MS",
+    "total": 6231
+  },
+  {
+    "UF": "Ceará",
+    "sigla": "CE",
+    "total": 6209
+  },
+  {
+    "UF": "Pará",
+    "sigla": "PA",
+    "total": 5683
+  },
+  {
+    "UF": "Distrito Federal",
+    "sigla": "DF",
+    "total": 5663
+  },
+  {
+    "UF": "Amazonas",
+    "sigla": "AM",
+    "total": 4015
+  },
+  {
+    "UF": "Maranhão",
+    "sigla": "MA",
+    "total": 2428
+  },
+  {
+    "UF": "Alagoas",
+    "sigla": "AL",
+    "total": 2207
+  },
+  {
+    "UF": "Rio Grande do Norte",
+    "sigla": "RN",
+    "total": 2174
+  },
+  {
+    "UF": "Paraíba",
+    "sigla": "PB",
+    "total": 1847
+  },
+  {
+    "UF": "Rondônia",
+    "sigla": "RO",
+    "total": 1810
+  },
+  {
+    "UF": "Sergipe",
+    "sigla": "SE",
+    "total": 1288
+  },
+  {
+    "UF": "Tocantins",
+    "sigla": "TO",
+    "total": 1138
+  },
+  {
+    "UF": "Piauí",
+    "sigla": "PI",
+    "total": 1005
+  },
+  {
+    "UF": "Roraima",
+    "sigla": "RR",
+    "total": 473
+  },
+  {
+    "UF": "Acre",
+    "sigla": "AC",
+    "total": 422
+  },
+  {
+    "UF": "Amapá",
+    "sigla": "AP",
+    "total": 335
+  }
+]

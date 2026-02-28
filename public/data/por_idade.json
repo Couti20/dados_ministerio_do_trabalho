@@ -1,0 +1,37 @@
+[
+  {
+    "faixa": "< 18",
+    "total": 842,
+    "percentual": 0.2
+  },
+  {
+    "faixa": "18-24",
+    "total": 62665,
+    "percentual": 16.8
+  },
+  {
+    "faixa": "25-34",
+    "total": 112189,
+    "percentual": 30.1
+  },
+  {
+    "faixa": "35-44",
+    "total": 97618,
+    "percentual": 26.2
+  },
+  {
+    "faixa": "45-54",
+    "total": 66551,
+    "percentual": 17.9
+  },
+  {
+    "faixa": "55-64",
+    "total": 28766,
+    "percentual": 7.7
+  },
+  {
+    "faixa": "65+",
+    "total": 3694,
+    "percentual": 1.0
+  }
+]

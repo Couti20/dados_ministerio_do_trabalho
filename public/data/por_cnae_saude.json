@@ -1,0 +1,86 @@
+[
+  {
+    "cnae": 8610,
+    "descricao": "Hospitais",
+    "total": 37676,
+    "percentual": 67.9
+  },
+  {
+    "cnae": 8660,
+    "descricao": "Atividades de Apoio à Gestão de Saúde",
+    "total": 5653,
+    "percentual": 10.2
+  },
+  {
+    "cnae": 8640,
+    "descricao": "Serviços de Atendimento Odontológico",
+    "total": 4219,
+    "percentual": 7.6
+  },
+  {
+    "cnae": 8630,
+    "descricao": "Serviços de Atendimento Médico",
+    "total": 3757,
+    "percentual": 6.8
+  },
+  {
+    "cnae": 8800,
+    "descricao": "Serviços de Assistência Social",
+    "total": 1409,
+    "percentual": 2.5
+  },
+  {
+    "cnae": 8690,
+    "descricao": "Atividades de Atenção à Saúde",
+    "total": 909,
+    "percentual": 1.6
+  },
+  {
+    "cnae": 8711,
+    "descricao": "Asilos",
+    "total": 660,
+    "percentual": 1.2
+  },
+  {
+    "cnae": 8730,
+    "descricao": "Atividades de Assistência a Idosos",
+    "total": 368,
+    "percentual": 0.7
+  },
+  {
+    "cnae": 8650,
+    "descricao": "Atividades de Profissionais da Área de Saúde",
+    "total": 334,
+    "percentual": 0.6
+  },
+  {
+    "cnae": 8621,
+    "descricao": "Serviços Móveis de Atendimento a Urgências",
+    "total": 216,
+    "percentual": 0.4
+  },
+  {
+    "cnae": 8720,
+    "descricao": "Residências para Pessoas com Deficiência",
+    "total": 164,
+    "percentual": 0.3
+  },
+  {
+    "cnae": 8712,
+    "descricao": "Residências para Idosos",
+    "total": 119,
+    "percentual": 0.2
+  },
+  {
+    "cnae": 8622,
+    "descricao": "Serviços de Remoção de Pacientes",
+    "total": 19,
+    "percentual": 0.0
+  },
+  {
+    "cnae": 8888,
+    "descricao": "Outros Setores",
+    "total": 1,
+    "percentual": 0.0
+  }
+]

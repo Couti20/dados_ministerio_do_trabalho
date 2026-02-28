@@ -1,0 +1,92 @@
+[
+  {
+    "cnae": 8610,
+    "descricao": "Hospitais",
+    "total": 37676,
+    "percentual": 10.1
+  },
+  {
+    "cnae": 4711,
+    "descricao": "Supermercados e Hipermercados",
+    "total": 16962,
+    "percentual": 4.6
+  },
+  {
+    "cnae": 4930,
+    "descricao": "Transporte de Carga",
+    "total": 11141,
+    "percentual": 3.0
+  },
+  {
+    "cnae": 8411,
+    "descricao": "Administração Pública",
+    "total": 9721,
+    "percentual": 2.6
+  },
+  {
+    "cnae": 1012,
+    "descricao": "Abate de Suínos/Aves",
+    "total": 9296,
+    "percentual": 2.5
+  },
+  {
+    "cnae": 4120,
+    "descricao": "Construção de Edifícios",
+    "total": 7397,
+    "percentual": 2.0
+  },
+  {
+    "cnae": 5611,
+    "descricao": "Restaurantes e Lanchonetes",
+    "total": 7067,
+    "percentual": 1.9
+  },
+  {
+    "cnae": 3811,
+    "descricao": "Coleta de Resíduos Não-Perigosos",
+    "total": 5991,
+    "percentual": 1.6
+  },
+  {
+    "cnae": 8660,
+    "descricao": "Atividades de Apoio à Gestão de Saúde",
+    "total": 5653,
+    "percentual": 1.5
+  },
+  {
+    "cnae": 1011,
+    "descricao": "Abate de Bovinos",
+    "total": 5589,
+    "percentual": 1.5
+  },
+  {
+    "cnae": 7820,
+    "descricao": "Locação de Mão de Obra Temporária",
+    "total": 5392,
+    "percentual": 1.4
+  },
+  {
+    "cnae": 5620,
+    "descricao": "Serviços de Catering",
+    "total": 4904,
+    "percentual": 1.3
+  },
+  {
+    "cnae": 4744,
+    "descricao": "Outros Setores",
+    "total": 4413,
+    "percentual": 1.2
+  },
+  {
+    "cnae": 8640,
+    "descricao": "Serviços de Atendimento Odontológico",
+    "total": 4219,
+    "percentual": 1.1
+  },
+  {
+    "cnae": 8121,
+    "descricao": "Limpeza de Prédios e Domicílios",
+    "total": 4005,
+    "percentual": 1.1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "regiao": "mao",
+    "total": 31286,
+    "percentual": 56.4
+  },
+  {
+    "regiao": "outros",
+    "total": 9999,
+    "percentual": 18.0
+  },
+  {
+    "regiao": "cabeca",
+    "total": 5084,
+    "percentual": 9.2
+  },
+  {
+    "regiao": "perna",
+    "total": 4971,
+    "percentual": 9.0
+  },
+  {
+    "regiao": "pe",
+    "total": 2432,
+    "percentual": 4.4
+  },
+  {
+    "regiao": "torax",
+    "total": 1029,
+    "percentual": 1.9
+  },
+  {
+    "regiao": "braco",
+    "total": 703,
+    "percentual": 1.3
+  }
+]

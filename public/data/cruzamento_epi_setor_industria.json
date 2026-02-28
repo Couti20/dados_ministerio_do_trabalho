@@ -1,0 +1,152 @@
+[
+  {
+    "cnae": 1012,
+    "descricao": "Abate de Suínos/Aves",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 1602
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 679
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 253
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 5194
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 498
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 1070
+      }
+    ]
+  },
+  {
+    "cnae": 4120,
+    "descricao": "Construção de Edifícios",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 2005
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 492
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 348
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 3208
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 258
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 1086
+      }
+    ]
+  },
+  {
+    "cnae": 1011,
+    "descricao": "Abate de Bovinos",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 1063
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 400
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 151
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 3196
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 163
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 616
+      }
+    ]
+  },
+  {
+    "cnae": 1071,
+    "descricao": "Fabricação de Açúcar",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 978
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 303
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 90
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 1604
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 246
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 573
+      }
+    ]
+  },
+  {
+    "cnae": 2229,
+    "descricao": "Fabricação de Artefatos de Plástico",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 358
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 188
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 60
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 1991
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 89
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 285
+      }
+    ]
+  }
+]

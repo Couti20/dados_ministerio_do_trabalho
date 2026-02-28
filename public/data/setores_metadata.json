@@ -1,0 +1,28 @@
+{
+  "setores": [
+    {
+      "id": "todos",
+      "nome": "Todos os Setores",
+      "sufixo": "",
+      "total": 372327
+    },
+    {
+      "id": "industria",
+      "nome": "Indústria & Construção",
+      "sufixo": "_industria",
+      "total": 144560
+    },
+    {
+      "id": "logistica",
+      "nome": "Logística & Transporte",
+      "sufixo": "_logistica",
+      "total": 22169
+    },
+    {
+      "id": "saude",
+      "nome": "Saúde",
+      "sufixo": "_saude",
+      "total": 55504
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "epi": "Luvas",
+    "total": 7713,
+    "cor": "#e74c3c",
+    "percentual": 34.8
+  },
+  {
+    "epi": "Calcado de Seguranca",
+    "total": 5937,
+    "cor": "#9b59b6",
+    "percentual": 26.8
+  },
+  {
+    "epi": "Outros / Nao Mapeado",
+    "total": 5115,
+    "cor": "#95a5a6",
+    "percentual": 23.1
+  },
+  {
+    "epi": "Capacete",
+    "total": 1927,
+    "cor": "#f39c12",
+    "percentual": 8.7
+  },
+  {
+    "epi": "Colete/Avental",
+    "total": 1030,
+    "cor": "#e67e22",
+    "percentual": 4.6
+  },
+  {
+    "epi": "Oculos de Protecao",
+    "total": 447,
+    "cor": "#3498db",
+    "percentual": 2.0
+  }
+]

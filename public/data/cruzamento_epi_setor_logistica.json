@@ -1,0 +1,152 @@
+[
+  {
+    "cnae": 4930,
+    "descricao": "Transporte de Carga",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 3018
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 1048
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 565
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 4022
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 251
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 2237
+      }
+    ]
+  },
+  {
+    "cnae": 5310,
+    "descricao": "Correios",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 504
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 83
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 89
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 376
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 3
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 1000
+      }
+    ]
+  },
+  {
+    "cnae": 4921,
+    "descricao": "Transporte Urbano",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 380
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 219
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 65
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 713
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 57
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 427
+      }
+    ]
+  },
+  {
+    "cnae": 5211,
+    "descricao": "Concessionárias de Rodovias",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 378
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 74
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 39
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 488
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 21
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 185
+      }
+    ]
+  },
+  {
+    "cnae": 5212,
+    "descricao": "Carga e Descarga",
+    "epis": [
+      {
+        "EPI_Faltando": "Calcado de Seguranca",
+        "total": 232
+      },
+      {
+        "EPI_Faltando": "Capacete",
+        "total": 69
+      },
+      {
+        "EPI_Faltando": "Colete/Avental",
+        "total": 33
+      },
+      {
+        "EPI_Faltando": "Luvas",
+        "total": 272
+      },
+      {
+        "EPI_Faltando": "Oculos de Protecao",
+        "total": 14
+      },
+      {
+        "EPI_Faltando": "Outros / Nao Mapeado",
+        "total": 118
+      }
+    ]
+  }
+]

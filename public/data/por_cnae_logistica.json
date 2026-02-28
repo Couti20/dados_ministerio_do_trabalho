@@ -1,0 +1,92 @@
+[
+  {
+    "cnae": 4930,
+    "descricao": "Transporte de Carga",
+    "total": 11141,
+    "percentual": 50.3
+  },
+  {
+    "cnae": 5310,
+    "descricao": "Correios",
+    "total": 2055,
+    "percentual": 9.3
+  },
+  {
+    "cnae": 4921,
+    "descricao": "Transporte Urbano",
+    "total": 1861,
+    "percentual": 8.4
+  },
+  {
+    "cnae": 5211,
+    "descricao": "Concessionárias de Rodovias",
+    "total": 1185,
+    "percentual": 5.3
+  },
+  {
+    "cnae": 5212,
+    "descricao": "Carga e Descarga",
+    "total": 738,
+    "percentual": 3.3
+  },
+  {
+    "cnae": 4912,
+    "descricao": "Transporte Metroviário",
+    "total": 547,
+    "percentual": 2.5
+  },
+  {
+    "cnae": 5320,
+    "descricao": "Serviços de Entrega",
+    "total": 537,
+    "percentual": 2.4
+  },
+  {
+    "cnae": 5221,
+    "descricao": "Concessionárias de Ferrovias",
+    "total": 520,
+    "percentual": 2.3
+  },
+  {
+    "cnae": 5240,
+    "descricao": "Gestão de Aeroportos",
+    "total": 457,
+    "percentual": 2.1
+  },
+  {
+    "cnae": 4922,
+    "descricao": "Transporte Rodoviário de Passageiros",
+    "total": 434,
+    "percentual": 2.0
+  },
+  {
+    "cnae": 5231,
+    "descricao": "Gestão de Portos",
+    "total": 424,
+    "percentual": 1.9
+  },
+  {
+    "cnae": 5250,
+    "descricao": "Agenciamento de Carga",
+    "total": 415,
+    "percentual": 1.9
+  },
+  {
+    "cnae": 4929,
+    "descricao": "Outros Transportes",
+    "total": 294,
+    "percentual": 1.3
+  },
+  {
+    "cnae": 5223,
+    "descricao": "Estacionamentos",
+    "total": 268,
+    "percentual": 1.2
+  },
+  {
+    "cnae": 5030,
+    "descricao": "Navegação de Apoio",
+    "total": 217,
+    "percentual": 1.0
+  }
+]

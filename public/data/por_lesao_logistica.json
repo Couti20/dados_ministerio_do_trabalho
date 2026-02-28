@@ -1,0 +1,52 @@
+[
+  {
+    "lesao": "Fratura",
+    "total": 4149,
+    "percentual": 18.7
+  },
+  {
+    "lesao": "Corte, Laceracao, Fe",
+    "total": 2923,
+    "percentual": 13.2
+  },
+  {
+    "lesao": "Lesao Imediata",
+    "total": 2909,
+    "percentual": 13.1
+  },
+  {
+    "lesao": "Contusao, Esmagament",
+    "total": 2519,
+    "percentual": 11.4
+  },
+  {
+    "lesao": "Distensao, Torcao",
+    "total": 2271,
+    "percentual": 10.2
+  },
+  {
+    "lesao": "Escoriacao, Abrasao",
+    "total": 1793,
+    "percentual": 8.1
+  },
+  {
+    "lesao": "Outras Lesoes, Nic",
+    "total": 1742,
+    "percentual": 7.9
+  },
+  {
+    "lesao": "Luxacao",
+    "total": 1535,
+    "percentual": 6.9
+  },
+  {
+    "lesao": "Lesao Imediata, Nic",
+    "total": 644,
+    "percentual": 2.9
+  },
+  {
+    "lesao": "Lesoes Multiplas",
+    "total": 426,
+    "percentual": 1.9
+  }
+]
