@@ -12,11 +12,7 @@
 
 **Transformando dados públicos em insights acionáveis para segurança do trabalho**
 
-[🚀 Demo Online](#) · [📊 Dados Utilizados](#-fonte-dos-dados) · [🛠️ Como Rodar](#-instalação)
-
----
-
-![Dashboard Preview](docs/preview.gif)
+[🚀 Demo Online](https://dados-ministerio-do-trabalho-r4psnh60s.vercel.app/) · [📊 Dados Utilizados](#-fonte-dos-dados) · [🛠️ Como Rodar](#-instalação)
 
 </div>
 

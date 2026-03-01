@@ -1,8 +1,14 @@
 import { motion } from 'framer-motion'
 import { AlertTriangle, MapPin, Users, TrendingUp, Shield } from 'lucide-react'
 
-export default function MetricCards({ metricas }) {
+export default function MetricCards({ metricas, sector }) {
   if (!metricas) return null
+
+  const isMaioriaMasculina = (metricas.percentualMasculino || 0) >= 50
+  const generoLabel = isMaioriaMasculina ? 'Sexo Masculino' : 'Sexo Feminino'
+  const generoValor = isMaioriaMasculina 
+    ? metricas.percentualMasculino 
+    : (100 - (metricas.percentualMasculino || 0)).toFixed(1)
 
   const cards = [
     {
@@ -30,8 +36,8 @@ export default function MetricCards({ metricas }) {
       trend: null
     },
     {
-      title: 'Sexo Masculino',
-      value: `${metricas.percentualMasculino || 0}%`,
+      title: generoLabel,
+      value: `${generoValor}%`,
       subtitle: 'Predominância de gênero',
       icon: TrendingUp,
       color: 'success',

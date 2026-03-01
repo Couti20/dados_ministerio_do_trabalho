@@ -10,6 +10,7 @@ import BodyDiagram from './components/BodyDiagram'
 import DemographicsCharts from './components/DemographicsCharts'
 import SectorChart from './components/SectorChart'
 import LesionChart from './components/LesionChart'
+import FinancialImpact from './components/FinancialImpact'
 import Footer from './components/Footer'
 
 function App() {
@@ -24,7 +25,8 @@ function App() {
     porIdade: [],
     porLesao: [],
     porCnae: [],
-    cruzamento: []
+    cruzamento: [],
+    financeiro: null
   })
   const [loading, setLoading] = useState(true)
   const [activeSection, setActiveSection] = useState('overview')
@@ -60,6 +62,16 @@ function App() {
           `por_cnae${suffix}`, 
           `cruzamento_epi_setor${suffix}`
         ]
+
+        // Carregar dados financeiros (apenas para Indústria)
+        let financeiro = null
+        if (selectedSector === 'industria') {
+          try {
+            financeiro = await fetch('/data/impacto_financeiro.json').then(r => r.json())
+          } catch (e) {
+            console.warn('Dados financeiros não disponíveis')
+          }
+        }
         
         const results = await Promise.all(
           files.map(f => fetch(`/data/${f}.json`).then(r => r.json()))
@@ -76,7 +88,8 @@ function App() {
           porIdade: results[7],
           porLesao: results[8],
           porCnae: results[9],
-          cruzamento: results[10]
+          cruzamento: results[10],
+          financeiro: financeiro
         })
         setLoading(false)
       } catch (error) {
@@ -199,6 +212,23 @@ function App() {
           />
           <DemographicsCharts sexoData={data.porSexo} idadeData={data.porIdade} />
         </motion.section>
+
+        {/* Seção 6: Impacto Financeiro (apenas Indústria) */}
+        {selectedSector === 'industria' && data.financeiro && (
+          <motion.section
+            id="financial"
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5, delay: 0.5 }}
+          >
+            <SectionTitle 
+              title="Impacto Financeiro Estimado" 
+              subtitle="Passivo trabalhista da Indústria & Construção — Base legal: NR-28 + CLT Art. 223-G"
+              icon="💰"
+            />
+            <FinancialImpact data={data.financeiro} />
+          </motion.section>
+        )}
 
         {/* Call to Action - Visão Computacional */}
         <motion.section

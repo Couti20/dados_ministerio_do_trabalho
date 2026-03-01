@@ -1,0 +1,104 @@
+{
+  "setor": "Indústria & Construção",
+  "totalAcidentes": 144560,
+  "baseLegal": {
+    "multas": "NR-28 (Fiscalização e Penalidades)",
+    "indenizacoes": "CLT Art. 223-G (Reforma Trabalhista 2017)"
+  },
+  "classificacaoGravidade": [
+    {
+      "gravidade": "Leve",
+      "descricao": "Corte, escoriação, queimadura superficial",
+      "lesoes": ["Corte, Laceracao, Fe", "Escoriacao, Abrasao", "Queimadura ou Escald"],
+      "totalAcidentes": 54369,
+      "percentual": 37.6,
+      "multaMedia": 3000,
+      "indenizacaoMedia": 5000,
+      "fundamentoMulta": "NR-28, Anexo I — Infração grau 4 (falta de EPI)",
+      "fundamentoIndenizacao": "CLT Art. 223-G, §1º, I — Ofensa leve: até 3x salário"
+    },
+    {
+      "gravidade": "Média",
+      "descricao": "Fratura, luxação, distensão, torção",
+      "lesoes": ["Fratura", "Luxacao", "Distensao, Torcao"],
+      "totalAcidentes": 37017,
+      "percentual": 25.6,
+      "multaMedia": 3000,
+      "indenizacaoMedia": 15000,
+      "fundamentoMulta": "NR-28, Anexo I — Infração grau 4",
+      "fundamentoIndenizacao": "CLT Art. 223-G, §1º, II — Ofensa média: até 5x salário"
+    },
+    {
+      "gravidade": "Grave",
+      "descricao": "Contusão, esmagamento (risco de amputação)",
+      "lesoes": ["Contusao, Esmagament"],
+      "totalAcidentes": 17993,
+      "percentual": 12.4,
+      "multaMedia": 3000,
+      "indenizacaoMedia": 60000,
+      "fundamentoMulta": "NR-28, Anexo I — Infração grau 4 + embargo/interdição",
+      "fundamentoIndenizacao": "CLT Art. 223-G, §1º, III — Ofensa grave: até 20x salário"
+    },
+    {
+      "gravidade": "Outros",
+      "descricao": "Lesão imediata, outras lesões não classificadas",
+      "lesoes": ["Lesao Imediata", "Outras Lesoes, Nic", "Lesao Imediata, Nic"],
+      "totalAcidentes": 35181,
+      "percentual": 24.3,
+      "multaMedia": 3000,
+      "indenizacaoMedia": 8000,
+      "fundamentoMulta": "NR-28, Anexo I",
+      "fundamentoIndenizacao": "CLT Art. 223-G — Média ponderada"
+    }
+  ],
+  "resumoFinanceiro": {
+    "custoTotalMultas": 433680000,
+    "custoTotalIndenizacoes": 1605427000,
+    "custoTotalEstimado": 2039107000,
+    "custoMedioAcidente": 14104,
+    "detalhamento": {
+      "multasLeve": 163107000,
+      "indenizacoesLeve": 271845000,
+      "multasMedia": 111051000,
+      "indenizacoesMedia": 555255000,
+      "multasGrave": 53979000,
+      "indenizacoesGrave": 1079580000,
+      "multasOutros": 105543000,
+      "indenizacoesOutros": 281448000
+    }
+  },
+  "indicadores": [
+    {
+      "label": "Passivo Total Estimado",
+      "valor": "R$ 2,04 bi",
+      "valorNumerico": 2039107000,
+      "icone": "💰",
+      "cor": "#ef4444",
+      "descricao": "Multas NR-28 + Indenizações CLT"
+    },
+    {
+      "label": "Custo Médio por Acidente",
+      "valor": "R$ 14.104",
+      "valorNumerico": 14104,
+      "icone": "📋",
+      "cor": "#f59e0b",
+      "descricao": "Média ponderada por gravidade"
+    },
+    {
+      "label": "Multas NR-28",
+      "valor": "R$ 433,7 mi",
+      "valorNumerico": 433680000,
+      "icone": "⚖️",
+      "cor": "#f97316",
+      "descricao": "R$ 3.000 por infração (média)"
+    },
+    {
+      "label": "Indenizações CLT",
+      "valor": "R$ 1,61 bi",
+      "valorNumerico": 1605427000,
+      "icone": "🏛️",
+      "cor": "#dc2626",
+      "descricao": "Art. 223-G — Dano moral/estético"
+    }
+  ]
+}
