@@ -77,23 +77,7 @@ Natureza das lesões mais comuns por setor.
 
 ---
 
-## 🧠 Lógica de Inferência de EPI
 
-O **diferencial técnico** deste projeto é a inferência de EPIs baseada em regras de negócio:
-
-```python
-def inferir_epi(parte_corpo):
-    if parte in ['dedo', 'mão', 'punho', 'braço']:
-        return '🧤 Luvas'
-    elif parte in ['cabeça', 'crânio', 'face']:
-        return '🪖 Capacete'
-    elif parte == 'olho':
-        return '🥽 Óculos de Proteção'
-    elif parte in ['pé', 'tornozelo', 'perna']:
-        return '👢 Calçado de Segurança'
-    elif parte in ['tórax', 'dorso', 'abdômen']:
-        return '🦺 Colete/Avental'
-```
 
 ### Resultados da Inferência
 
@@ -298,7 +282,7 @@ python scripts/agregar_dados.py
 
 ---
 
-## 🔮 Roadmap
+## 🔮 Futuras implantações.
 
 - [ ] 🤖 Integração com modelo YOLO para detecção de EPIs em vídeo
 - [ ] 📡 API REST para consumo dos dados
